@@ -9,6 +9,7 @@ bitcoin resources
 
 ## Reading
 
+- https://bitcoin-resources.com/
 - https://www.hope.com/
 
 # Articles

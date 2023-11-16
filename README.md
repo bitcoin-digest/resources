@@ -2,8 +2,14 @@ bitcoin resources
 
 # Links
 
+## Tools
+
 - https://mempool.space/
 - https://bitfeed.live/
+
+## Reading
+
+- https://www.hope.com/
 
 # Articles
 

@@ -11,6 +11,7 @@ bitcoin resources
 
 - https://bitcoin-resources.com/
 - https://www.hope.com/
+- https://bitcoiner.guide/
 
 # Articles
 
